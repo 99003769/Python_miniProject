@@ -37,14 +37,14 @@
 
 ## When:
 
-**When the data sheet contains thousands of data
+**When the data sheet contains thousands of data**
 
 ## Where:
-**When user want to extract specific data from the large excel sheet*
+**When user want to extract specific data from the large excel sheet**
 
 ## How:
 
-****
+**By using Python3**
 
 # Detail requirements
 ## High Level Requirements:
