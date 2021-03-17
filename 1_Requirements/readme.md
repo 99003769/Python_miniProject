@@ -29,23 +29,22 @@
 
 ## Who:
 
-**TBD**
+**User**
 
 ## What:
 
-**TBD**
+**Finding specific data from 5 sheet amd printing that data on mastersheet**
 
 ## When:
 
-**TBD**
+**When the data sheet contains thousands of data
 
 ## Where:
-
-**TBD**
+**When user want to extract specific data from the large excel sheet*
 
 ## How:
 
-**TBD**
+****
 
 # Detail requirements
 ## High Level Requirements:
