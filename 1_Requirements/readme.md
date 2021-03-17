@@ -8,16 +8,18 @@
 
 ## Research
 
-**Using Various python method to work on data avilable on 5 different sheets.**
+**Using Various Python method to work on data available on 5 different sheets.**
 
 ## Defining Our System
     My excel sheet contain the coloumn such as:
     1.Area name
     2.Year
-    3.group name
-    4.sub group name
-    5.case property recoverd
+    3.Group name
+    4.Sub group name
+    5.Case property recoverd
     6.case property stolen, etc.
+    My code will read the different sheet from the excel file and after reading the sheet it will extract the specific data which user wants to extract and after  extraction it will write that data in the mastersheet created in the same excel file.
+    
 ## SWOT ANALYSIS
 ![SWOT-Sample](Link to Pic)
 
@@ -53,6 +55,8 @@
 ##  Low level Requirements:
 1.The data sheet contain 40 rows and 10 coloumns
 2.The sheet contain the data of total number of theft taken place in different states in india in year between 2001 to 2005
+3.reading the data using python predefined functions
+4.extracting data from all five sheet according to user.
 
 
 
