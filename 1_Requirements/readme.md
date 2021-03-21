@@ -47,18 +47,29 @@
 
 **By using Python3**
 
+
 # Detail requirements
 ## High Level Requirements:
-    1.Finding data from 5 different sheets
-    2.Creating mastersheet for required data in same excel file.
+|*id*  |*Requirements*  | *Description*  |*Status*  |
+| --- | --- | --- | --- |
+|HL1 | Search data from sheet |Search all data from 5 different sheets according to user input.|IMPLEMENTED|
+|HL2 | Creating  MasterSheet  | Fetch data from different sheets and write in one Master Sheet|IMPLEMENTED |
+|HL3 |Take Multiple Input | Write required data in the excel file. |IMPLEMENTED |
 
+ 
 
+ 
 
 ##  Low level Requirements:
-    1.The data sheet contain 40 rows and 10 coloumns.
-    2.The sheet contain the data of total number of theft taken place in different states in india in year between 2001 to 2005.
-    3.reading the data using python predefined functions.
-    4.extracting data from all five sheet according to user.
 
+ 
+|*id*  |*Requirments*  | *Description*  |*Status*  |
+| --- | --- | --- | --- |
+|LL001 | Each Sheet Contains 40 rows and 10 coloumn | All 5 sheet have 40 rows and 10 coloumn |IMPLEMENTED |
+|LL002 | Excel file format | The Excel file Must be of .xslx format |IMPLEMENTED |
+|LL003 |Multiple Input | User Can get Multiple Data according to the requirment |IMPLEMENTED |
+|LL004 |Searching Data |Search for specific data based on user specific inputs from all 5 sheets |IMPLEMENTED |
+|LL005 | Master Sheet Creation | MasteSheet will be created with the required data which user wants |IMPLEMENTED |
+|LL006 | Bar Graph Sheet Creation | MasteSheet will contain Bar Graph from the data avilable in mastersheet |IMPLEMENTED |
 
 
