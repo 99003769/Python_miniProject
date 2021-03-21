@@ -23,7 +23,7 @@
     and after  extraction it will write that data in the mastersheet created in the same excel file.
     
 ## SWOT ANALYSIS
-![SWOT-Sample]![swot]![image](https://user-images.githubusercontent.com/78853972/111908957-3a645400-8a81-11eb-82a8-ed88f0d9e922.png)
+![SWOT-Sample]![swot]![image](https://user-images.githubusercontent.com/78853972/111909026-96c77380-8a81-11eb-945f-17cb7b16dfc2.png)
 
 
 # 4W&#39;s and 1&#39;H
