@@ -50,7 +50,7 @@
 
 # Detail requirements
 ## High Level Requirements:
-|*id*  |*Requirements*  | *Description*  |*Status*  |
+|*ID*  |*Requirements*  | *Description*  |*Status*  |
 | --- | --- | --- | --- |
 |HL1 | Search data from sheet |Search all data from 5 different sheets according to user input.|IMPLEMENTED|
 |HL2 | Creating  MasterSheet  | Fetch data from different sheets and write in one Master Sheet|IMPLEMENTED |
@@ -63,7 +63,7 @@
 ##  Low level Requirements:
 
  
-|*id*  |*Requirments*  | *Description*  |*Status*  |
+|*ID*  |*Requirments*  | *Description*  |*Status*  |
 | --- | --- | --- | --- |
 |LL001 | Each Sheet Contains 40 rows and 10 coloumn | All 5 sheet have 40 rows and 10 coloumn |IMPLEMENTED |
 |LL002 | Excel file format | The Excel file Must be of .xslx format |IMPLEMENTED |
