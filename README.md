@@ -6,7 +6,7 @@ The user defines the data that needs to be searched on the basis of Area Name. T
 # Problem Statement:-
 
 
-In microsoft excel sheet is often called as worksheet. A sheet is a single page that contains its own collection of cells help us to organize data.
+Microsoft excel sheet is often called as worksheet. A sheet is a single page that contains its own collection of cells help us to organize data.
 Excel spreadsheets do well for small datasets and for a reduced pool of data operations. However, when the projects become bigger and require more sophisticated data operations, than it becomes very hard to work on that data manually. 
 several methods have been proposed in order to combat this.
 one is to handel datasheet through python programming.
